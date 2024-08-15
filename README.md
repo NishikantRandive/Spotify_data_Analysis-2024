@@ -10,3 +10,7 @@ Tracks by Date give the information about tracks added by the month and year.
 Analyzing Monthly Streams Analyzing average streams per month reveals significant peaks during certain periods, indicating potential seasonal trends or effective marketing strategies. Understanding these patterns helps artists and marketers plan releases and promotions to maximize their reach and impact.
 
 Conclusion This Spotify Data Analysis offers valuable insights into music trends, highlighting the artists and tracks that have captured the hearts of millions. By understanding these patterns, artists and marketers can better strategize their releases and promotions to align with listener preferences and behaviors.
+
+![Screenshot (255)](https://github.com/user-attachments/assets/afb632d9-3c06-45af-acbd-8d2bd7435219)
+
+
